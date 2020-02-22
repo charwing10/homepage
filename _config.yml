@@ -1,6 +1,6 @@
-title: Link #博客标题
-description: Just 4 Fun. #博客描述
-keywords: blog,css,html,php #博客关键字
+title: Qiaoying Huang's Homepage
+description: Qiaoying Huang's Homepage
+keywords: blog,css,html,php 
 author: "Link"
 
 #title hide and show
@@ -18,7 +18,7 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://api.dujin.org/bing/1920.php
-theme_color: 546E7A
+theme_color: 7584AD
 
 google_analytics:
 # hydrogen-blog date format
